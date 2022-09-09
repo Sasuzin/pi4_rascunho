@@ -18,5 +18,10 @@
         android:icon="@drawable/album"
         android:title="Álbuns"
         app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/config"
+        android:icon="@drawable/settings"
+        android:title="Config"
+        app:showAsAction="always" />
 
 </menu>
